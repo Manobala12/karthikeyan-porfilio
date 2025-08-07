@@ -1,0 +1,13 @@
+{
+  "name": "karthikeyan-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Karthikeyan E",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed' && exit 0",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": ["portfolio", "static", "website"],
+  "author": "Karthikeyan E",
+  "license": "MIT"
+}
